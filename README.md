@@ -1,7 +1,5 @@
 # 7053SCN ISIC 2019 Skin Lesion Classification 
 
-# 7053SCN ISIC 2019 Skin Lesion Classification
-
 ## Overview
 A stacked ensemble deep learning pipeline for multi-class skin lesion classification
 using the ISIC 2019 dataset. The pipeline progresses through multiple model architectures,
