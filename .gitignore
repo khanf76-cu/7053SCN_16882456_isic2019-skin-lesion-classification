@@ -1,0 +1,13 @@
+*.jpg 
+*.jpeg 
+*.png 
+*.pth 
+*.pt 
+*.npy 
+ISIC_2019/ 
+runs/ 
+runs_isic2019/ 
+__pycache__/ 
+.ipynb_checkpoints/ 
+Untitled.ipynb 
+trial 1.ipynb
